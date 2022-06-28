@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Ignite Lab #2" src=".github/logo.png" />
+  <img alt="Ignite Lab #2" src="https://github.com/Serejo/event-plataform/blob/master/src/img/Group%201.png" />
 </p>
 
 <p align="center">
@@ -65,4 +65,4 @@ Você pode visualizar o layout do projeto através do link abaixo:
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 
-Made with 💜 by **[@Serejo](https://www.linkedin.com/in/erick-serejo-30984b101/)**.
+Made with 💜 by **[@Serejo](https://www.linkedin.com/in/erick-serejo-30984b101/)** and **[Rocketseat](https://www.rocketseat.com.br)**.
